@@ -1,0 +1,4 @@
+$_db_host = "";
+$_db_user = "";
+$_db_pw = "";
+$_db_name = "";
